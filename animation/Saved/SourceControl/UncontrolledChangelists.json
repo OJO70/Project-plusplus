@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/jorgemananesalfonso/Desktop/puzzleUnreal/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"/Users/jorgemananesalfonso/Desktop/puzzleUnreal/MyProject/Content/Blueprints/BP_ObjetoBase.uasset",
+				"/Users/jorgemananesalfonso/Desktop/puzzleUnreal/MyProject/Content/Blueprints/Interaccion.uasset",
+				"/Users/jorgemananesalfonso/Desktop/puzzleUnreal/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/GF/OXUKL78VCXI08T82IM5BU8.uasset",
+				"/Users/jorgemananesalfonso/Desktop/puzzleUnreal/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
